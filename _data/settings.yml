@@ -8,10 +8,10 @@ phone: Phone contact me!
 address: Cartagena, Murcia, Spain
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: 'web/about/'}
+- {name: Blog, link: 'web/blog/'}
+- {name: Portfolio, link: 'web/portfolio/'}
+- {name: Contact, link: 'web/contact/'}
 
 
 #-------------------------------
